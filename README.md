@@ -1,1 +1,2 @@
 # Snake-Game
+Snake Game GUI in Python: This project features a classic Snake game implemented with a graphical user interface using the Python programming language. The game offers an engaging experience where players control a snake to collect food items, grow longer, and avoid collisions with the walls and the snake's own body. Built using the Tkinter library, this GUI-based Snake game showcases interactive graphics, smooth animations, and a user-friendly interface. Players can enjoy the nostalgia of the iconic Snake game while exploring the well-designed GUI elements. 
